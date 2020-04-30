@@ -1,7 +1,7 @@
 # Object-Detection
-Object detection for video streams using tensorflow.
+Object detection for video streams (webcams, IP cameras, video files) using Tensorflow.
 ## Installation Instructions
-Follow tensorflow setup instructions here:
+Follow Tensorflow setup instructions here:
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/installation.md
 
 This requires protobuf compilation! 
