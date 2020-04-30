@@ -6,4 +6,4 @@ https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc
 
 This requires protobuf compilation! 
 ## See it in action
-![that's me!](http://github.com/robertegj/Object-Detection/blob/master/screenshot.gif)
+![that's me!](https://github.com/robertegj/Object-Detection/blob/master/screenshot.gif)
